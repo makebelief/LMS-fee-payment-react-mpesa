@@ -55,7 +55,7 @@ make start
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/LMS-fee-payment-react-mpesa.git
+   git clone https://github.com/makebelief/LMS-fee-payment-react-mpesa.git
    cd LMS-fee-payment-react-mpesa
    ```
 
@@ -265,11 +265,7 @@ make coverage
    - Include issue references
    - Keep commits atomic
 
-## 🤝 Support
 
-- Create an issue for bug reports
-- Join our [Discord Community](your-discord-link)
-- Email support: support@example.com
 
 ## 📄 License
 
